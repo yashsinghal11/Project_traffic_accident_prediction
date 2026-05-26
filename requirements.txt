@@ -3,3 +3,4 @@ pandas
 numpy
 scikit-learn
 xgboost==2.0.3
+Python 3.11 
